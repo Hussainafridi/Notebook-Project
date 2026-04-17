@@ -1,1 +1,2 @@
 # Notebook-Project
+This project is a clean and minimal Notebook Web App that allows users to create, manage, and delete notes easily. The interface includes input fields for adding a task title and detailed description, along with a simple "Add Notes" button for quick entry. Added notes are displayed in a structured format below, with options to remove them when no longer needed. The design focuses on simplicity, usability, and a smooth user experience, making it ideal for organizing daily tasks and personal notes efficiently.
